@@ -3,7 +3,7 @@
 ## Algorithm
 ### General
 [Easy] [Two Sum](https://github.com/ldale1/LeetCodeSolutions/blob/main/Easy/TwoSum.cs) \
-[Medium] [Longest Substring Without Repeating Characters(https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.cs)
+[Medium] [Longest Substring Without Repeating Characters](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.cs)\
 [Medium] [Peeking Iterator](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/PeekingIterator.cs)
 
 
