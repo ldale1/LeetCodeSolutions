@@ -16,7 +16,7 @@
 
 ### Dynamic Programming
 [Easy] [Climbing Stairs](https://github.com/ldale1/LeetCodeSolutions/blob/main/Easy/ClimbingStairs.cs) \
-[Medium] [Climbing Stairs](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/UniquePaths.cs) \
+[Medium] [Unique Paths](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/UniquePaths.cs) \
 [Hard] [Edit Distance](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/EditDistance.cs)
 
 ### Graph
