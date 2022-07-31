@@ -11,6 +11,9 @@
 ### Backtracking
 [Hard] [Sudoku Solver](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/SudokuSolver.cs)
 
+### Binary Search
+[Medium] [Single Element in a SortedArray](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/SingleElementInSortedArray.cs)
+
 ### Double Header
 [Hard] [Median of Two Sorted Arrays](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/MedianOfTwoSortedArrays.cs)
 
