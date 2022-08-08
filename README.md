@@ -12,7 +12,8 @@
 [Hard] [Sudoku Solver](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/SudokuSolver.cs)
 
 ### Binary Search
-[Medium] [Single Element in a SortedArray](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/SingleElementInSortedArray.cs)
+[Medium] [Single Element in a SortedArray](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/SingleElementInSortedArray.cs)\
+[Medium] [Search a 2D Matrix](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/Search2DMatrix.cs)
 
 ### Double Header
 [Hard] [Median of Two Sorted Arrays](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/MedianOfTwoSortedArrays.cs)
