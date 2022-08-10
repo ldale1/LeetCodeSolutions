@@ -9,6 +9,7 @@
 [Medium] [Zigzag Conversion](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/ZigzagConversion.cs)
 
 ### Backtracking
+[Medium] [Generate Parentheses](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/GenerateParentheses.cs) \
 [Hard] [Sudoku Solver](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/SudokuSolver.cs)
 
 ### Binary Search
