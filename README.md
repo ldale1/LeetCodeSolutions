@@ -33,4 +33,5 @@
 [Medium] [Add Two Numbers](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/AddTwoNumbers.cs) 
 
 ### Sorting
-[Medium] [Top K FrequentElements](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/TopKFrequentElements.cs) 
+[Medium] [Top K FrequentElements](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/TopKFrequentElements.cs) \
+[Hard] [Merge K Sorted Lists](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/MergeKSortedLists.cs)
