@@ -1,13 +1,14 @@
 # LeetCodeSolutions
 
 ## Algorithm
-### General
+### Fundamentals
 [Easy] [Two Sum](https://github.com/ldale1/LeetCodeSolutions/blob/main/Easy/TwoSum.cs) \
 [Medium] [Container With Most Water](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/ContainerWithMostWater.cs) \
 [Medium] [Integer To Roman](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/IntegerToRoman.cs) \
 [Medium] [Longest Substring Without Repeating Characters](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.cs)\
 [Medium] [Peeking Iterator](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/PeekingIterator.cs) \
 [Hard] [Text Justification](https://github.com/ldale1/LeetCodeSolutions/blob/main/Hard/TextJustification.cs)\
+[Medium] [Three Sum](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/ThreeSum.cs) \
 [Medium] [Zigzag Conversion](https://github.com/ldale1/LeetCodeSolutions/blob/main/Medium/ZigzagConversion.cs)
 
 ### Backtracking
